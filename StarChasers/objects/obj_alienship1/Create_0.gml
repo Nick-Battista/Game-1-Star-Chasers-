@@ -2,3 +2,6 @@
 // You can write your code in this editor
 vspeed = layer_get_vspeed("Background")
 
+maxHP = 100;
+hp = maxHP;
+
