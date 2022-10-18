@@ -7,3 +7,14 @@ if y - sprite_yoffset < 0
 	y = sprite_yoffset
 	x = irandom_range(sprite_xoffset, room_width - sprite_xoffset)
 }
+
+
+if laserFire
+{
+	if instance_exists(obj_player)
+	{
+		laserFire = false
+		alarm[0] = 30
+		instance_create_layer(x, y, "Instances", obj_alienLaser)
+	}
+}

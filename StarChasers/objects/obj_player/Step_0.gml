@@ -2,10 +2,10 @@
 // You can write your code in this editor
 obj_player.xstart = (room_width / 2) + (sprite_width / 2)
 obj_player.ystart = (room_height / 2) + (sprite_height / 2)
-if keyboard_check(vk_left) x -= 5
-if keyboard_check(vk_right) x += 5
-if keyboard_check(vk_up) y-= 5
-if keyboard_check(vk_down) y += 5
+if keyboard_check(vk_left) x -= speedBoost
+if keyboard_check(vk_right) x += speedBoost
+if keyboard_check(vk_up) y-= speedBoost
+if keyboard_check(vk_down) y += speedBoost
 x = clamp(x, sprite_width / 2, room_width - sprite_width / 2)
 y = clamp(y, sprite_height / 2, room_height - sprite_height /2)
 if keyboard_check(vk_up) vspeed -= 1

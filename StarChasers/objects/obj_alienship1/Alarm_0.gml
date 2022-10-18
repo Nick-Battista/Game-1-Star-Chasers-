@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-speedBoost = 5
+laserFire = true
 

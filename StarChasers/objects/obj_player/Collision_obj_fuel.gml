@@ -4,5 +4,6 @@
 with (other) {
 	instance_destroy();
 }
-movementspeed = movementspeed_power_up;
-alarm[1] = 300;
+speedBoost = 30
+vspeed = speedBoost
+alarm[1] = 150;
