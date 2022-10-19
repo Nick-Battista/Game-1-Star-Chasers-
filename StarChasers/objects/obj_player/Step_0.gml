@@ -24,3 +24,7 @@ if laserFire
 		instance_create_layer(x, y, "Instances", obj_laser)
 	}
 }
+
+if lives < 1 {
+	game_restart()
+}

@@ -1,7 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-draw_set_colour(c_ltgray)
-draw_rectangle(27, 5, 150, 75, false)
+draw_set_colour(c_orange)
+draw_rectangle(27, 5, 170, 75, true)
+
 
 
 draw_set_halign(fa_left)
@@ -14,8 +15,6 @@ if(global.game_over) {
 
 for (var i = 0; i < lives; i++) {
 	
-	draw_sprite(spr_player, 0, (50 + 40 * i), 35)
+	draw_sprite(spr_player, 0, (50 + 50 * i), 35)
 	
-	
-
 }
