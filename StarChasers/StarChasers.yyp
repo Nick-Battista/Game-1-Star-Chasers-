@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "StarChasers",
   "resources": [
+    {"id":{"name":"obj_Controller","path":"objects/obj_Controller/obj_Controller.yy",},"order":6,},
     {"id":{"name":"spr_alienLaser","path":"sprites/spr_alienLaser/spr_alienLaser.yy",},"order":5,},
     {"id":{"name":"spr_laser","path":"sprites/spr_laser/spr_laser.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
@@ -22,7 +23,7 @@
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
