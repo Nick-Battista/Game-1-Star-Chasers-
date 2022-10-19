@@ -3,3 +3,4 @@
 laserFire = true
 
 speedBoost = 5
+
