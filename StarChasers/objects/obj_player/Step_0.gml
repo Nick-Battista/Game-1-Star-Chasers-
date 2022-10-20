@@ -27,4 +27,7 @@ if laserFire
 
 if lives < 1 {
 	game_restart()
+	
+	// if lives < 1: go to losing screen
+	// if player reaches star go to winning screen
 }
