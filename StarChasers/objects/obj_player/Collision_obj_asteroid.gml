@@ -4,6 +4,7 @@
 with (other) {
 	instance_destroy();
 }
-speedBoost = 20
+speedBoost = 2
 vspeed = speedBoost
-alarm[1] = 150;
+alarm[1] = 120;
+
