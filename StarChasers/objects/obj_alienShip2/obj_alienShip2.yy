@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_alienShip2",
   "spriteId": {
-    "name": "spr_alienShip1",
-    "path": "sprites/spr_alienShip1/spr_alienShip1.yy",
+    "name": "spr_alienShip2",
+    "path": "sprites/spr_alienShip2/spr_alienShip2.yy",
   },
   "solid": false,
   "visible": true,
@@ -29,7 +29,9 @@
   "physicsShapePoints": [],
   "eventList": [],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","propertyId":{"name":"shootSpeed","path":"objects/obj_alienShip1/obj_alienShip1.yy",},"objectId":{"name":"obj_alienShip1","path":"objects/obj_alienShip1/obj_alienShip1.yy",},"value":"50",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",

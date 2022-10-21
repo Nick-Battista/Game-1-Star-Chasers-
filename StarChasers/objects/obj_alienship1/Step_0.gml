@@ -14,7 +14,7 @@ if laserFire
 	if instance_exists(obj_player)
 	{
 		laserFire = false
-		alarm[0] = 30
+		alarm[0] = shootSpeed
 		instance_create_layer(x, y, "Instances", obj_alienLaser)
 	}
 }
