@@ -4,6 +4,6 @@ vspeed = layer_get_vspeed("Background")
 vspeed += 2
 laserFire = true
 
-maxHP = 100;
-hp = maxHP;
+
+
 

@@ -5,3 +5,5 @@ with(obj_player) {
 	lives -= 1;
 }
 
+audio_play_sound(sound_crashenemy, 5 ,false);
+

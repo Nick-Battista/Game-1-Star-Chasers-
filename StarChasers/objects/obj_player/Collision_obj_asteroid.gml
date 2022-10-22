@@ -8,3 +8,4 @@ speedBoost = 2
 vspeed = speedBoost
 alarm[1] = 120;
 
+audio_play_sound(sound_crashenemy, 5 ,false);

@@ -4,6 +4,3 @@
 //instance_destroy(obj_alienShip1)
 
 
-with(other) {
-	hp -= obj_laser.laserDmg;
-}

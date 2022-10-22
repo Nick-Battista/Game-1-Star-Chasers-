@@ -5,3 +5,4 @@ with(obj_player) {
 	lives -= 1;
 }
 
+score += 30;
