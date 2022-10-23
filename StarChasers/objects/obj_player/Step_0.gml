@@ -24,10 +24,3 @@ if laserFire
 		instance_create_layer(x, y, "Instances", obj_laser)
 	}
 }
-
-if lives < 1 {
-	room_goto(losingScreen)
-	
-	// if lives < 1: go to losing screen
-	// if player reaches star go to winning screen
-}

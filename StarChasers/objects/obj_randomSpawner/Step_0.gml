@@ -38,3 +38,14 @@ if canSpawnShip2 {
 		instance_create_layer(spawnX, y, "Instances", obj_alienShip2)
 	}
 }
+
+
+if canSpawnStar {
+	if instance_exists(obj_player) {
+		canSpawnStar = false
+		alarm[4] = 1500
+		instance_create_layer(room_width / 2, 50, "Instances", obj_star)
+	}
+}
+
+

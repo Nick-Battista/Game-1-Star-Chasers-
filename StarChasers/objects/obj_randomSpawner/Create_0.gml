@@ -4,9 +4,9 @@ canSpawnAsteroid = true
 canSpawnBoost = true
 canSpawnShip1 = true
 canSpawnShip2 = true
-canSpawnStar = false
+canSpawnStar = true
 
-alarm[4] = 1000
+alarm[4] = 1500
 
 
 spawnY = irandom_range(0, room_height - sprite_yoffset)

@@ -7,3 +7,11 @@ with(obj_player) {
 
 audio_play_sound(sound_crashenemy, 5 ,false);
 
+if lives < 1 {
+	audio_stop_sound(soundPlayer)
+	audio_play_sound(sound_lose1, 5, false)
+	obj_player.visible = false
+	room_goto(losingScreen)
+	global.game_over = true
+}
+
