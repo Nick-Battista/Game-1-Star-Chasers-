@@ -5,5 +5,3 @@ room_goto(winningScreen);
 other.x = placeX;
 other.y = placeY;
 
-placeX = 669;
-placeY = 730;
