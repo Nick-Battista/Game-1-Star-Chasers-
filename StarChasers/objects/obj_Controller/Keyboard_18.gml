@@ -11,7 +11,7 @@ if keyboard_check_pressed(ord("G")){
 // if player presses L it will add 5 extra lives 
 if keyboard_check_pressed(ord("A")){
 	
-	lives = lives + 5
+	lives = lives + 10
 	
 }
 

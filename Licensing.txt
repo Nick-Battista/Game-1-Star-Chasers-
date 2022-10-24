@@ -1,0 +1,55 @@
+Sprite Artwork
+spr_alienLaser: art by Nick Battista
+spr_alienShip1: art by Nick Battista/Wilman Vasquez
+spr_alienShip2: art by Nick Battista/Wilman Vasquez
+spr_asteroid: art by Nick Battista
+spr_background: art by William Hemric
+spr_cover: art by Kevin Mai
+spr_fuel: art by Kevin Mai
+spr_fuel1: art by Nick Battista
+spr_instructions: art by Nick Battista
+spr_laser: art by Nick Battista
+spr_lose: art by Nick Battista
+spr_player: art by Nick Battista/Wilman Vasquez
+spr_star: art by Nick Battista
+spr_title: art by Nick Battista
+spr_win: art by Nick Battista
+spr_winroom: art by William Hemric/Kevin Mai
+
+Sounds/Music
+sound_asteroid:
+woosh by RunnerPack
+https://freesound.org/people/RunnerPack/sounds/87047/
+
+sound_crashenemy:
+hit-metallic-garbage can by Anthousai
+https://freesound.org/people/Anthousai/sounds/406492/
+
+sound_died:
+Poof of Smoke by Planman
+https://freesound.org/people/Planman/sounds/208111/
+
+sound_enelaser:
+Laser by swag1773
+https://freesound.org/people/swag1773/sounds/639625/
+
+sound_intro:
+night across the stars by X3nus
+https://freesound.org/people/X3nus/sounds/564911/
+
+sound_laser:
+laser3 by nsstudios
+https://freesound.org/people/nsstudios/sounds/344276/
+
+sound_lose1: 
+Sound Effect from <a href="https://pixabay.com/sound-effects/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=88884">Pixabay</a>
+
+sound_star:
+Power Up, Bright, A by InspectorJ
+https://freesound.org/people/InspectorJ/sounds/411460/
+
+soundPlayer:
+Sound Effect from <a href="https://pixabay.com/sound-effects/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=7176">Pixabay</a>
+
+winSound:
+Sound Effect by <a href="https://pixabay.com/users/daddy_s_music-22836301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=9927">Daddy_s_Music</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=9927">Pixabay</a>
